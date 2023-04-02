@@ -26,7 +26,7 @@ PORT=5001
 CONNECTION_STRING= mongodb+srv://admin:admin@cluster0.yl7jggw.mongodb.net/mycontacts-backend?retryWrites=true&w=majority
 ```
 
-4. Start the server using the following command:
+4. Coonect to mongo DB locally and Start the server using the following command:
 
 ```
 npm start
