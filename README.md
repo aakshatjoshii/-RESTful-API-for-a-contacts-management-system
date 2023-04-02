@@ -83,7 +83,7 @@ To run the unit tests for the API endpoints, use the command npm start. Test the
 
 
 ## Credits
-This project was created by Aakshat Joshi.
+This project was created by Akshat Joshi.
 
 
 
