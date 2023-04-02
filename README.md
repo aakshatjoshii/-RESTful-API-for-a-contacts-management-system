@@ -13,7 +13,7 @@ To get started with this project, follow the steps below:
 git clone https://github.com/aakshatjoshii/-RESTful-API-for-a-contacts-management-system.git
 ```
 
-2. Install the dependencies listed in package.json file sing the following command:
+2. Install the dependencies listed in package.json file with the following command:
 
 ```
 nm install
